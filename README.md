@@ -1,3 +1,10 @@
-### Hi there 👋
+## Hey! 👋
+I'm Zahid Al Haris, a software developer from indonesian.
 
-My name is Zahid Al Haris, i am a Software Developer who loving programming world.
+- 👥 Core team member at Andia
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, Java, Python
+- ⚙️ Laravel, Codeigniter, FastAPI
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL
